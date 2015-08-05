@@ -5,7 +5,7 @@
   "description": "A grunt task to flatten multiple RAML files into a single one.",
   "main": "lib/flatten.js",
   "scripts": {
-    "test": "grunt test"
+    
   },
   "author": "",
   "license": "ISC",
