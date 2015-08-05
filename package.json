@@ -8,5 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "flat-raml": "^1.2.1",
+    "grunt": "^0.4.5"
+  }
 }
