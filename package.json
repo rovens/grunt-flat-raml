@@ -10,7 +10,7 @@
   "license": "ISC",
   "readmeFilename": "README.md",
   "dependencies": {
-    "flat-raml": "^1.2.1",
-    "grunt": "^0.4.5"
+    "flat-raml": "~1.2.1",
+    "grunt": "~0.4.5"
   }
 }
