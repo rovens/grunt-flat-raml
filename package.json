@@ -4,9 +4,7 @@
   "version": "0.0.1",
   "description": "A grunt task to flatten multiple RAML files into a single one.",
   "main": "lib/flatten.js",
-  "engines": {
-    "node": ">= 0.8.0"
-  },
+
   "scripts": {
     "test": "grunt test"
   },
