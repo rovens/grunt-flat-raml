@@ -4,7 +4,6 @@
   "version": "0.0.1",
   "description": "A grunt task to flatten multiple RAML files into a single one.",
   "main": "lib/flatten.js",
-
   "scripts": {
     "test": "grunt test"
   },
@@ -15,5 +14,8 @@
     "async": "^1.4.0",
     "flat-raml": "~1.2.1",
     "grunt": "~0.4.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
   }
 }
